@@ -28,7 +28,7 @@ The main steps for building an autocorrect model are
 	- Switch letter
 - Possible single and double edits on a string input, which contains the possible correction suggestions for the string used as input
 - Suggest spelling suggestions
-- **Minumum Edit Distance** to evaluate the similarity between two strings and find the shortest path to go from the source word to the target word
+- **Minimum Edit Distance** to evaluate the similarity between two strings and find the shortest path to go from the source word to the target word
 	- Dynamic programming 
 
 
